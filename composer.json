@@ -1,0 +1,16 @@
+{
+    "name": "qwetzal/tag",
+    "autoload": {
+        "psr-4": {
+            "Qwetzal\\Tag\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vishal sundriyal",
+            "email": "vishalsundriyal567@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
