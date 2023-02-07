@@ -27,6 +27,7 @@
         <tr>
             <th>#</th>
             <th>Name</th>
+            <th>Count</th>
             <th>Action</th>
         </tr>
         </thead>
@@ -35,6 +36,7 @@
             <tr>
                 <td>{{ $loop->iteration }}</td>
                 <td>{{ $tag->name }}</td>
+                <td>32434</td>
             </tr>
         @endforeach
         </tbody>
